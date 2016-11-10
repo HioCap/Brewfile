@@ -37,7 +37,7 @@ appstore 425424353 The Unarchiver
 appstore 595374522 VirusScannerPlus
 
 # Other App
-install alfred
+#install alfred
 install animated-gif-quicklook
 install appcleaner
 install betterzipql

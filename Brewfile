@@ -32,6 +32,7 @@ cask quicklook-csv
 cask quicklook-json
 cask skype
 cask spideroakone
+cask spotify
 cask totalspaces
 cask vlc
 cask xtrafinder

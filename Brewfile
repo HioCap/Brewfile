@@ -2,7 +2,11 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask adapter
+cask adobe-reader
 cask alfred
+cask amazon-drive
+cask amazon-music
 cask animated-gif-quicklook
 cask appcleaner
 cask bathyscaphe
@@ -13,7 +17,10 @@ cask flash-player
 cask flux
 cask git
 cask iexplorer
+cask imageoptim
 cask iterm2
+cask lastfm
+cask liteicon
 cask macclean
 cask mamp
 cask qlcolorcode

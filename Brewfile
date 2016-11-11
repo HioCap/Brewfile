@@ -13,6 +13,7 @@ cask bathyscaphe
 cask betterzipql
 cask caffeine
 cask dropbox
+cask firefox
 cask flash-player
 cask flux
 cask git
@@ -55,6 +56,7 @@ appstore 510934532 FreeMan (1.4.1)
 appstore 682658836 GarageBand (10.1.3)
 appstore 409183694 Keynote (7.0.5)
 appstore 402376225 MarsEdit (3.7.8)
+appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 407963104 Pixelmator (3.5.1)

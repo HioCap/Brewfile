@@ -6,7 +6,6 @@ cask adapter
 cask adobe-reader
 cask alfred
 cask amazon-drive
-cask amazon-music
 cask animated-gif-quicklook
 cask appcleaner
 cask bathyscaphe

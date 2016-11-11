@@ -9,6 +9,7 @@ cask bathyscaphe
 cask betterzipql
 cask caffeine
 cask dropbox
+cask flash-player
 cask flux
 cask git
 cask iexplorer

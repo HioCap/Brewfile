@@ -12,6 +12,7 @@ cask appcleaner
 cask bathyscaphe
 cask betterzipql
 cask caffeine
+cask cheatsheet
 cask dropbox
 cask firefox
 cask flash-player
@@ -56,6 +57,7 @@ appstore 443987910 1Password (6.5)
 appstore 1024640650 CotEditor (3.0.4)
 appstore 406056744 Evernote (6.10)
 appstore 477514607 Exif Editor (1.1.8)
+appstore 445211988 FormatMatch (1.3)
 appstore 510934532 FreeMan (1.4.1)
 appstore 682658836 GarageBand (10.1.3)
 appstore 409183694 Keynote (7.0.5)

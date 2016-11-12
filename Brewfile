@@ -20,6 +20,7 @@ cask git
 cask iexplorer
 cask imageoptim
 cask iterm2
+cask java
 cask lastfm
 cask liteicon
 cask macclean

@@ -10,6 +10,7 @@ cask amazon-music
 cask animated-gif-quicklook
 cask appcleaner
 cask bathyscaphe
+cask bettertouchtool
 cask betterzipql
 cask caffeine
 cask cheatsheet
@@ -54,6 +55,7 @@ brew brew-file
 
 # App Store applications
 appstore 443987910 1Password (6.5)
+appstore 417375580 BetterSnapTool (1.7)
 appstore 1024640650 CotEditor (3.0.4)
 appstore 406056744 Evernote (6.10)
 appstore 477514607 Exif Editor (1.1.8)

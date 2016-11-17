@@ -14,6 +14,7 @@ cask bettertouchtool
 cask betterzipql
 cask caffeine
 cask cheatsheet
+cask cyberduck
 cask dropbox
 cask firefox
 cask flash-player
@@ -34,6 +35,7 @@ cask qlstephen
 cask quicklook-csv
 cask quicklook-json
 cask skype
+cask sourcetree
 cask spideroakone
 cask spotify
 cask vlc

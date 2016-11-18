@@ -54,9 +54,9 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 443987910 1Password (6.5)
+appstore 443987910 1Password (6.5.1)
 appstore 417375580 BetterSnapTool (1.7)
-appstore 1024640650 CotEditor (3.1.0)
+appstore 1024640650 CotEditor (3.1.1)
 appstore 406056744 Evernote (6.10)
 appstore 477514607 Exif Editor (1.1.8)
 appstore 445211988 FormatMatch (1.3)

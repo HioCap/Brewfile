@@ -12,6 +12,7 @@ cask appcleaner
 cask bathyscaphe
 cask bettertouchtool
 cask betterzipql
+cask box-sync
 cask caffeine
 cask cheatsheet
 cask cyberduck

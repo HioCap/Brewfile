@@ -29,6 +29,7 @@ cask kindle
 cask lastfm
 cask liteicon
 cask macclean
+cask malwarebytes-anti-malware
 cask mamp
 cask qlcolorcode
 cask qlimagesize

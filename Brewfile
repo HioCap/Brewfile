@@ -41,7 +41,6 @@ cask skype
 cask sourcetree
 cask spideroakone
 cask spotify
-cask vivaldi
 cask vlc
 
 tap caskroom/versions

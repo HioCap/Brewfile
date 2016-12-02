@@ -3,6 +3,7 @@
 
 tap caskroom/cask
 cask adapter
+cask adobe-creative-cloud
 cask adobe-reader
 cask alfred
 cask amazon-drive

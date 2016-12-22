@@ -60,6 +60,7 @@ brew brew-file
 # App Store applications
 appstore 443987910 1Password (6.5.2)
 appstore 417375580 BetterSnapTool (1.7)
+appstore 420212497 Byword (2.8)
 appstore 1048338802 Cookie (5.2.1)
 appstore 1024640650 CotEditor (3.1.2)
 appstore 406056744 Evernote (6.10)

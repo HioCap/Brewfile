@@ -49,10 +49,14 @@ tap caskroom/versions
 tap homebrew/core
 brew boost
 brew exiftool
+brew ffmpeg
 brew git
 brew highlight
+brew lame
 brew lua
 brew mas
+brew x264
+brew xvid
 
 tap rcmdnk/file
 brew brew-file

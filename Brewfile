@@ -21,7 +21,6 @@ cask dropbox
 cask firefox
 cask flash-player
 cask flux
-cask git
 cask iexplorer
 cask imageoptim
 cask iterm2
@@ -60,6 +59,11 @@ brew xvid
 
 tap rcmdnk/file
 brew brew-file
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask git (!)
 
 # App Store applications
 appstore 443987910 1Password (6.5.3)

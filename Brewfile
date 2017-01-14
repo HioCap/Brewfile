@@ -18,6 +18,7 @@ cask caffeine
 cask cheatsheet
 cask cyberduck
 cask dropbox
+cask expandrive
 cask firefox
 cask flash-player
 cask flux

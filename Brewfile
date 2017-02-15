@@ -8,7 +8,6 @@ cask adobe-reader
 cask alfred
 cask amazon-drive
 cask amazon-music
-cask animated-gif-quicklook
 cask appcleaner
 cask bathyscaphe
 cask bettertouchtool
@@ -60,6 +59,11 @@ brew xvid
 
 tap rcmdnk/file
 brew brew-file
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask animated-gif-quicklook (!)
 
 # App Store applications
 appstore 443987910 1Password (6.5.3)

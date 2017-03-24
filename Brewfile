@@ -22,6 +22,7 @@ cask expandrive
 cask firefox
 cask flash-player
 cask flux
+cask franz
 cask iexplorer
 cask imageoptim
 cask iterm2

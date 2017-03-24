@@ -33,6 +33,7 @@ cask liteicon
 cask macclean
 cask malwarebytes-anti-malware
 cask mamp
+cask my-image-garden
 cask qlcolorcode
 cask qlimagesize
 cask qlmarkdown

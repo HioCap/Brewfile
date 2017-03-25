@@ -16,6 +16,7 @@ cask box-sync
 cask burn
 cask caffeine
 cask cheatsheet
+cask cyberduck
 cask dropbox
 cask expandrive
 cask firefox

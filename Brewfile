@@ -67,7 +67,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 443987910 1Password (6.6.4)
+appstore 443987910 1Password (6.7)
 appstore 417375580 BetterSnapTool (1.7)
 appstore 420212497 Byword (2.8)
 appstore 1048338802 Cookie 5 (5.5.4)
@@ -83,7 +83,7 @@ appstore 493949693 iMage Tools (1.0.16)
 appstore 408981434 iMovie (10.1.5)
 appstore 409183694 Keynote (7.1.1)
 appstore 463243494 Kopypasta (1.2)
-appstore 576338668 Leaf (5.0.7)
+appstore 576338668 Leaf (5.1)
 appstore 402376225 MarsEdit (3.7.11)
 appstore 403100976 myTracks (3.0.2)
 appstore 428834068 Night Owl (2.85)

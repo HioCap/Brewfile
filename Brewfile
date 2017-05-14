@@ -4,7 +4,6 @@
 tap caskroom/cask
 cask adapter
 cask adobe-creative-cloud
-cask adobe-reader
 cask alfred
 cask amazon-drive
 cask amazon-music
@@ -65,6 +64,9 @@ brew xvid
 
 tap rcmdnk/file
 brew brew-file
+
+# Cask applications
+cask adobe-reader
 
 # App Store applications
 appstore 443987910 1Password (6.7)

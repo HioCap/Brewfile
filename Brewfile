@@ -67,12 +67,12 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 443987910 1Password (6.7)
+appstore 443987910 1Password (6.8)
 appstore 417375580 BetterSnapTool (1.7)
 appstore 420212497 Byword (2.8)
 appstore 1048338802 Cookie 5 (5.5.7)
-appstore 1024640650 CotEditor (3.1.8)
-appstore 1055511498 Day One (2.3.4)
+appstore 1024640650 CotEditor (3.2.0)
+appstore 1055511498 Day One (2.3.5)
 appstore 406056744 Evernote (6.11.1)
 appstore 477514607 Exif Editor (1.1.12)
 appstore 403111073 flickery (1.9.43)

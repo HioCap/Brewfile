@@ -50,18 +50,18 @@ cask vlc
 tap caskroom/versions
 
 tap homebrew/core
-brew boost
-brew exiftool
-brew ffmpeg
-brew git
-brew highlight
-brew icu4c
-brew lame
-brew lua
-brew mas
 brew node
-brew x264
+brew mas
+brew git
+brew ffmpeg
+brew lame
+brew exiftool
+brew icu4c
+brew lua
 brew xvid
+brew x264
+brew highlight
+brew boost
 
 tap rcmdnk/file
 brew brew-file

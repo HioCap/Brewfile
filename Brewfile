@@ -31,7 +31,6 @@ cask kindle
 cask lastfm
 cask liteicon
 cask macclean
-cask malwarebytes-anti-malware
 cask mamp
 cask my-image-garden
 cask qlcolorcode
@@ -65,6 +64,9 @@ brew boost
 
 tap rcmdnk/file
 brew brew-file
+
+# Cask applications
+cask malwarebytes-anti-malware
 
 # App Store applications
 appstore 443987910 1Password (6.8)

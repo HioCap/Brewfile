@@ -30,6 +30,7 @@ cask java
 cask kindle
 cask lastfm
 cask liteicon
+cask lyrics-master
 cask macclean
 cask mamp
 cask my-image-garden
@@ -75,7 +76,7 @@ appstore 420212497 Byword (2.8)
 appstore 1048338802 Cookie 5 (5.5.8)
 appstore 1024640650 CotEditor (3.2.1)
 appstore 1055511498 Day One (2.4.1)
-appstore 406056744 Evernote (6.12)
+appstore 406056744 Evernote (6.12.1)
 appstore 477514607 Exif Editor (1.1.12)
 appstore 403111073 flickery (1.9.43)
 appstore 445211988 FormatMatch (1.3)

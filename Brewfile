@@ -71,7 +71,7 @@ cask malwarebytes-anti-malware
 
 # App Store applications
 appstore 443987910 1Password (6.8.2)
-appstore 417375580 BetterSnapTool (1.7)
+appstore 417375580 BetterSnapTool (1.8)
 appstore 420212497 Byword (2.8.1)
 appstore 1048338802 Cookie 5 (5.6)
 appstore 1024640650 CotEditor (3.2.2)
@@ -93,7 +93,7 @@ appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.3)
 appstore 409201541 Pages (6.3)
 appstore 418818452 PhotoSync (3.2)
-appstore 407963104 Pixelmator (3.6)
+appstore 407963104 Pixelmator (3.7)
 appstore 445189367 PopClip (1.5.7)
 appstore 522706442 Sync Folders Pro (3.3.7)
 appstore 421340897 TabLauncher (2.9.5)

@@ -36,7 +36,6 @@ cask firefox
 cask flash-player
 cask flux
 cask forklift
-cask franz
 cask iexplorer
 cask imageoptim
 cask iterm2
@@ -73,8 +72,8 @@ cask malwarebytes-anti-malware
 appstore 443987910 1Password (6.8.3)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 420212497 Byword (2.8.1)
-appstore 1048338802 Cookie 5 (5.6.1)
-appstore 1024640650 CotEditor (3.2.2)
+appstore 1048338802 Cookie 5 (5.6.2)
+appstore 1024640650 CotEditor (3.2.3)
 appstore 1055511498 Day One (2.5.1)
 appstore 406056744 Evernote (6.12.3)
 appstore 477514607 Exif Editor (1.1.12)

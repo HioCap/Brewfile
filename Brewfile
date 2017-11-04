@@ -53,7 +53,6 @@ cask qlmarkdown
 cask qlstephen
 cask quicklook-csv
 cask quicklook-json
-cask skype
 cask sourcetree
 cask spideroakone
 cask spotify

@@ -68,11 +68,11 @@ brew brew-file
 cask malwarebytes-anti-malware
 
 # App Store applications
-appstore 443987910 1Password (6.8.3)
+appstore 443987910 1Password (6.8.4)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 420212497 Byword (2.8.1)
 appstore 1048338802 Cookie 5 (5.6.2)
-appstore 1024640650 CotEditor (3.2.3)
+appstore 1024640650 CotEditor (3.2.4)
 appstore 1055511498 Day One (2.5.1)
 appstore 406056744 Evernote (6.13)
 appstore 477514607 Exif Editor (1.1.12)
@@ -84,7 +84,7 @@ appstore 493949693 iMage Tools (1.0.16)
 appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3)
 appstore 463243494 Kopypasta (1.2)
-appstore 576338668 Leaf (5.1.2)
+appstore 576338668 Leaf (5.1.3)
 appstore 402376225 MarsEdit (3.7.11)
 appstore 403100976 myTracks (3.1.2)
 appstore 428834068 Night Owl (2.85)

@@ -16,48 +16,48 @@ brew x264
 brew xvid
 
 tap caskroom/cask
-cask adapter
-cask adobe-acrobat-reader
-cask adobe-creative-cloud
-cask alfred
-cask amazon-drive
-cask amazon-music
-cask appcleaner
-cask bathyscaphe
-cask bettertouchtool
-cask betterzipql
-cask box-sync
-cask burn
-cask caffeine
-cask cheatsheet
-cask dropbox
-cask expandrive
-cask firefox
-cask flash-player
-cask flux
-cask forklift
-cask iexplorer
 cask imageoptim
-cask iterm2
-cask java
-cask kindle
-cask lastfm
+cask spideroakone
+cask flux
+cask box-sync
+cask qlmarkdown
+cask cheatsheet
+cask amazon-music
+cask iexplorer
+cask spotify
+cask vlc
+cask appcleaner
+cask amazon-drive
+cask burn
+cask expandrive
+cask macclean
 cask liteicon
 cask lyrics-master
-cask macclean
-cask mamp
 cask my-image-garden
+cask iterm2
+cask dropbox
+cask betterzipql
+cask kindle
+cask adobe-creative-cloud
+cask caffeine
+cask adapter
+cask quicklook-json
+cask lastfm
+cask qlstephen
+cask flash-player
 cask qlcolorcode
 cask qlimagesize
-cask qlmarkdown
-cask qlstephen
+cask firefox
+cask adobe-acrobat-reader
+cask mamp
 cask quicklook-csv
-cask quicklook-json
+cask forklift
+cask java
 cask sourcetree
-cask spideroakone
-cask spotify
+cask bathyscaphe
+cask alfred
+cask bettertouchtool
 cask subler
-cask vlc
 
 tap caskroom/versions
 
@@ -82,12 +82,11 @@ appstore 510934532 FreeMan (1.4.1)
 appstore 682658836 GarageBand (10.2.0)
 appstore 493949693 iMage Tools (1.0.16)
 appstore 408981434 iMovie (10.1.8)
-appstore 0 Install macOS High Sierra (13.1.05)
 appstore 409183694 Keynote (7.3.1)
 appstore 463243494 Kopypasta (1.2)
 appstore 576338668 Leaf (5.1.3)
 appstore 402376225 MarsEdit (3.7.11)
-appstore 403100976 myTracks (3.1.2)
+appstore 403100976 myTracks (3.2.0)
 appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.3.1)
 appstore 823766827 OneDrive (17.3.7078)

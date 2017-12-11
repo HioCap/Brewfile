@@ -69,6 +69,7 @@ cask malwarebytes-anti-malware
 
 # App Store applications
 appstore 443987910 1Password (6.8.4)
+appstore 808501572 Backgrounds (1.6.1)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 420212497 Byword (2.8.1)
 appstore 1048338802 Cookie 5 (5.7.4)

@@ -36,7 +36,6 @@ cask lyrics-master
 cask my-image-garden
 cask iterm2
 cask dropbox
-cask betterzipql
 cask kindle
 cask adobe-creative-cloud
 cask caffeine
@@ -65,6 +64,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Cask applications
+cask betterzipql
 cask malwarebytes-anti-malware
 
 # App Store applications

@@ -68,7 +68,7 @@ cask betterzipql
 cask malwarebytes-anti-malware
 
 # App Store applications
-appstore 443987910 1Password (6.8.5)
+appstore 443987910 1Password (6.8.6)
 appstore 808501572 Backgrounds (1.6.3)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 420212497 Byword (2.8.1)

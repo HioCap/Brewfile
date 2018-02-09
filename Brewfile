@@ -44,6 +44,7 @@ cask quicklook-json
 cask lastfm
 cask qlstephen
 cask flash-player
+cask franz
 cask qlcolorcode
 cask qlimagesize
 cask firefox

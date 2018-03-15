@@ -52,6 +52,7 @@ cask firefox
 cask adobe-acrobat-reader
 cask mamp
 cask quicklook-csv
+cask trusteer-rapport
 cask forklift
 cask java
 cask sourcetree

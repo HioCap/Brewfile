@@ -66,12 +66,12 @@ tap caskroom/versions
 tap rcmdnk/file
 brew brew-file
 
-# Cask applications
+# Other Cask applications
 cask betterzipql
 cask malwarebytes-anti-malware
 
 # App Store applications
-appstore 443987910 1Password (6.8.7)
+appstore 443987910 1Password (6.8.8)
 appstore 808501572 Backgrounds (1.6.3)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 420212497 Byword (2.8.2)
@@ -98,7 +98,7 @@ appstore 409201541 Pages (6.3.1)
 appstore 418818452 PhotoSync (3.2)
 appstore 407963104 Pixelmator (3.7)
 appstore 445189367 PopClip (1.5.8)
-appstore 522706442 Sync Folders Pro (3.4.1)
+appstore 522706442 Sync Folders Pro (3.4.2)
 appstore 421340897 TabLauncher (2.9.5)
 appstore 425424353 The Unarchiver (3.11.3)
 appstore 595374522 VirusScannerPlus (3.10)

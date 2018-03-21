@@ -16,50 +16,50 @@ brew x264
 brew xvid
 
 tap caskroom/cask
-cask imageoptim
-cask spideroakone
-cask flux
-cask box-sync
-cask qlmarkdown
-cask cheatsheet
-cask amazon-music
-cask iexplorer
-cask spotify
-cask vlc
-cask skype
-cask appcleaner
+cask adapter
+cask adobe-acrobat-reader
+cask adobe-creative-cloud
+cask alfred
 cask amazon-drive
+cask amazon-music
+cask appcleaner
+cask bathyscaphe
+cask bettertouchtool
+cask box-sync
 cask burn
+cask caffeine
+cask cheatsheet
+cask dropbox
 cask expandrive
-cask macclean
+cask firefox
+cask flash-player
+cask flux
+cask forklift
+cask franz
+cask iexplorer
+cask imageoptim
+cask iterm2
+cask java
+cask kindle
+cask lastfm
 cask liteicon
 cask lyrics-master
+cask macclean
+cask mamp
 cask my-image-garden
-cask iterm2
-cask dropbox
-cask kindle
-cask adobe-creative-cloud
-cask caffeine
-cask adapter
-cask quicklook-json
-cask lastfm
-cask qlstephen
-cask flash-player
-cask franz
 cask qlcolorcode
 cask qlimagesize
-cask firefox
-cask adobe-acrobat-reader
-cask mamp
+cask qlmarkdown
+cask qlstephen
 cask quicklook-csv
-cask trusteer-rapport
-cask forklift
-cask java
+cask quicklook-json
+cask skype
 cask sourcetree
-cask bathyscaphe
-cask alfred
-cask bettertouchtool
+cask spideroakone
+cask spotify
 cask subler
+cask trusteer-rapport
+cask vlc
 
 tap caskroom/versions
 
@@ -72,6 +72,7 @@ cask malwarebytes-anti-malware
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
+appstore 451732904 App Language Chooser (1.0)
 appstore 808501572 Backgrounds (1.6.3)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 420212497 Byword (2.8.2)
@@ -86,6 +87,8 @@ appstore 510934532 FreeMan (1.4.1)
 appstore 682658836 GarageBand (10.2.0)
 appstore 493949693 iMage Tools (1.0.16)
 appstore 408981434 iMovie (10.1.8)
+appstore 0 Install macOS High Sierra (13.3.02)
+appstore 0 Install macOS High Sierra (13.3.02)
 appstore 409183694 Keynote (7.3.1)
 appstore 463243494 Kopypasta (1.2)
 appstore 576338668 Leaf (5.1.3)
@@ -93,7 +96,7 @@ appstore 402376225 MarsEdit (3.7.11)
 appstore 403100976 myTracks (3.2.1)
 appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.3.1)
-appstore 823766827 OneDrive (17.005.0107)
+appstore 823766827 OneDrive (18.025.0204)
 appstore 409201541 Pages (6.3.1)
 appstore 418818452 PhotoSync (3.2)
 appstore 407963104 Pixelmator (3.7)
@@ -102,4 +105,4 @@ appstore 522706442 Sync Folders Pro (3.4.2)
 appstore 421340897 TabLauncher (2.9.5)
 appstore 425424353 The Unarchiver (3.11.3)
 appstore 595374522 VirusScannerPlus (3.10)
-appstore 492068728 Yummy FTP (1.11.14)
+appstore 492068728 Yummy FTP (1.11.15)

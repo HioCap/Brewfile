@@ -45,7 +45,6 @@ cask amazon-drive
 cask appcleaner
 cask bathyscaphe
 cask bettertouchtool
-cask betterzip
 cask box-sync
 cask burn
 cask caffeine
@@ -82,6 +81,8 @@ cask subler
 cask trusteer-rapport
 cask vlc
 
+tap caskroom/versions
+
 tap rcmdnk/file
 brew brew-file
 
@@ -110,4 +111,6 @@ appstore 409201541 Pages (6.3.1)
 appstore 418818452 PhotoSync (3.2)
 appstore 407963104 Pixelmator (3.7)
 appstore 445189367 PopClip (1.5.8)
+appstore 522706442 Sync Folders Pro (3.4.2)
+appstore 425424353 The Unarchiver (3.11.3)
 appstore 595374522 VirusScannerPlus (3.11)

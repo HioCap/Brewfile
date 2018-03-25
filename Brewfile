@@ -89,7 +89,7 @@ brew brew-file
 # App Store applications
 appstore 443987910 1Password (6.8.8)
 appstore 451732904 App Language Chooser (1.0)
-appstore 808501572 Backgrounds (3.0)
+appstore 808501572 Backgrounds (4.0)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 420212497 Byword (2.8.2)
 appstore 1048338802 Cookie 5 (5.7.9)

@@ -42,6 +42,7 @@ cask adobe-acrobat-reader
 cask adobe-creative-cloud
 cask alfred
 cask amazon-drive
+cask amazon-music
 cask appcleaner
 cask bathyscaphe
 cask bettertouchtool

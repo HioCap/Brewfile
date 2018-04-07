@@ -39,6 +39,7 @@ brew xvid
 tap caskroom/cask
 cask adapter
 cask adobe-acrobat-reader
+cask adobe-air
 cask adobe-creative-cloud
 cask alfred
 cask amazon-drive

@@ -10,6 +10,7 @@ brew ffmpeg --with-fdk-aac --with-freetype --with-libass --with-libvpx --with-sd
 brew fontconfig
 brew freetype
 brew fribidi
+brew gdbm
 brew gettext
 brew git
 brew glib
@@ -27,10 +28,14 @@ brew lua
 brew mas
 brew nasm
 brew node
+brew openssl
 brew pcre
 brew pixman
 brew pkg-config
+brew python@2
+brew readline
 brew sdl2
+brew sqlite
 brew texi2html
 brew x264
 brew x265

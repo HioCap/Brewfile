@@ -6,7 +6,7 @@ brew boost
 brew cairo
 brew exiftool
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-freetype --with-libass --with-libvpx --with-sdl2 --with-x265
+brew ffmpeg --with-fdk-aac --with-libass --with-sdl2 --with-x265 --with-freetype --with-libvpx
 brew fontconfig
 brew freetype
 brew fribidi

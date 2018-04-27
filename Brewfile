@@ -80,6 +80,7 @@ cask qlmarkdown
 cask qlstephen
 cask quicklook-csv
 cask quicklook-json
+cask remote-play
 cask skype
 cask sourcetree
 cask spideroakone

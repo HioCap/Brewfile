@@ -80,7 +80,6 @@ cask qlmarkdown
 cask qlstephen
 cask quicklook-csv
 cask quicklook-json
-cask remote-play
 cask skype
 cask sourcetree
 cask spideroakone
@@ -93,6 +92,9 @@ tap caskroom/versions
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Cask applications
+cask remote-play
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)

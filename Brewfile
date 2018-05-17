@@ -70,7 +70,6 @@ cask kindle
 cask lastfm
 cask liteicon
 cask lyrics-master
-cask macclean
 cask mamp
 cask my-image-garden
 cask onyx

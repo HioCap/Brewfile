@@ -96,13 +96,13 @@ brew brew-file
 cask remote-play
 
 # App Store applications
-appstore 443987910 1Password (6.8.8)
+appstore 443987910 1Password (6.8.9)
 appstore 451732904 App Language Chooser (1.0)
 appstore 808501572 Backgrounds (6.0)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 420212497 Byword (2.8.2)
 appstore 1048338802 Cookie 5 (5.8.4)
-appstore 1024640650 CotEditor (3.3.5)
+appstore 1024640650 CotEditor (3.4.0)
 appstore 1055511498 Day One (2.6.4)
 appstore 406056744 Evernote (7.1.1)
 appstore 477514607 Exif Editor (1.1.14)
@@ -120,6 +120,6 @@ appstore 409201541 Pages (7.0.1)
 appstore 418818452 PhotoSync (3.2)
 appstore 407963104 Pixelmator (3.7)
 appstore 445189367 PopClip (1.5.8)
-appstore 522706442 Sync Folders Pro (3.4.3)
+appstore 522706442 Sync Folders Pro (3.4.4)
 appstore 425424353 The Unarchiver (3.11.5)
 appstore 595374522 VirusScannerPlus (3.11)

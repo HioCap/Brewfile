@@ -41,7 +41,7 @@ brew x264
 brew x265
 brew xvid
 
-tap caskroom/cask
+tap homebrew/cask
 cask adapter
 cask adobe-acrobat-reader
 cask adobe-air
@@ -87,7 +87,7 @@ cask subler
 cask trusteer-rapport
 cask vlc
 
-tap caskroom/versions
+tap homebrew/cask-versions
 
 tap rcmdnk/file
 brew brew-file

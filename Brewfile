@@ -89,6 +89,8 @@ cask vlc
 
 tap homebrew/cask-versions
 
+tap caskroom/cask
+
 tap rcmdnk/file
 brew brew-file
 

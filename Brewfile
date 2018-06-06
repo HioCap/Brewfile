@@ -43,48 +43,27 @@ brew xvid
 
 tap homebrew/cask
 cask adapter
-cask adobe-acrobat-reader
 cask adobe-air
-cask adobe-creative-cloud
 cask alfred
-cask amazon-drive
 cask amazon-music
-cask appcleaner
 cask bathyscaphe
-cask bettertouchtool
 cask box-sync
-cask burn
 cask caffeine
-cask cheatsheet
 cask cmd-eikana
-cask dropbox
 cask expandrive
-cask firefox
 cask flux
-cask forklift
 cask franz
-cask iexplorer
 cask imageoptim
-cask iterm2
 cask kindle
-cask lastfm
 cask liteicon
-cask lyrics-master
 cask mamp
-cask my-image-garden
 cask onyx
-cask qlcolorcode
 cask qlimagesize
-cask qlmarkdown
 cask qlstephen
-cask quicklook-csv
 cask quicklook-json
 cask skype
-cask sourcetree
 cask spideroakone
-cask spotify
 cask subler
-cask trusteer-rapport
 cask vlc
 
 tap homebrew/cask-versions
@@ -95,7 +74,28 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
+cask adobe-acrobat-reader
+cask adobe-creative-cloud
+cask amazon-drive
+cask appcleaner
+cask bettertouchtool
+cask burn
+cask cheatsheet
+cask dropbox
+cask firefox
+cask forklift
+cask iexplorer
+cask iterm2
+cask lastfm
+cask lyrics-master
+cask my-image-garden
+cask qlcolorcode
+cask qlmarkdown
+cask quicklook-csv
 cask remote-play
+cask sourcetree
+cask spotify
+cask trusteer-rapport
 
 # App Store applications
 appstore 443987910 1Password (6.8.9)

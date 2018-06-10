@@ -41,6 +41,8 @@ brew x264
 brew x265
 brew xvid
 
+tap homebrew/cask-versions
+
 tap homebrew/cask
 cask adapter
 cask adobe-air
@@ -65,10 +67,6 @@ cask skype
 cask spideroakone
 cask subler
 cask vlc
-
-tap homebrew/cask-versions
-
-tap caskroom/cask
 
 tap rcmdnk/file
 brew brew-file

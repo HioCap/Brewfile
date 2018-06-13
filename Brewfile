@@ -96,7 +96,6 @@ cask spotify
 cask trusteer-rapport
 
 # App Store applications
-appstore 443987910 1Password (6.8.9)
 appstore 1333542190 1Password 7 (7.0.4)
 appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
@@ -106,7 +105,7 @@ appstore 420212497 Byword (2.8.2)
 appstore 1048338802 Cookie 5 (5.8.4)
 appstore 1024640650 CotEditor (3.4.2)
 appstore 1055511498 Day One (2.7)
-appstore 406056744 Evernote (7.1.1)
+appstore 406056744 Evernote (7.2.1)
 appstore 477514607 Exif Editor (1.1.14)
 appstore 445211988 FormatMatch (1.3)
 appstore 510934532 FreeMan (1.4.1)

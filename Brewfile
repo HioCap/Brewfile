@@ -97,6 +97,7 @@ cask trusteer-rapport
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.0.7)
+appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 808501572 Backgrounds (6.0)
 appstore 417375580 BetterSnapTool (1.8)

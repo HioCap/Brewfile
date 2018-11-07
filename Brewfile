@@ -22,13 +22,16 @@ brew icu4c
 brew lame
 brew libass
 brew libffi
+brew libogg
 brew libpng
+brew libvorbis
 brew libvpx
 brew lua
 brew mas
 brew nasm
 brew node
 brew openssl
+brew opus
 brew pcre
 brew pcre2
 brew pixman
@@ -36,11 +39,14 @@ brew pkg-config
 brew python@2
 brew readline
 brew sdl2
+brew snappy
 brew sqlite
 brew texi2html
+brew theora
 brew x264
 brew x265
 brew xvid
+brew xz
 
 tap homebrew/cask-versions
 
@@ -100,11 +106,11 @@ cask trusteer-rapport
 appstore 1333542190 1Password 7 (7.2.1)
 appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
-appstore 808501572 Backgrounds (6.1)
+appstore 808501572 Backgrounds (6.2.1)
 appstore 417375580 BetterSnapTool (1.9)
 appstore 420212497 Byword (2.8.2)
 appstore 1048338802 Cookie 5 (5.8.7)
-appstore 1024640650 CotEditor (3.6.1)
+appstore 1024640650 CotEditor (3.6.3)
 appstore 1055511498 Day One (2.9.1)
 appstore 406056744 Evernote (7.5.2)
 appstore 477514607 Exif Editor (1.1.14)
@@ -117,12 +123,12 @@ appstore 463243494 Kopypasta (1.2)
 appstore 576338668 Leaf (5.1.3)
 appstore 403100976 myTracks (3.4.2)
 appstore 428834068 Night Owl (2.88)
-appstore 823766827 OneDrive (18.151.0729)
+appstore 823766827 OneDrive (18.175.0826)
 appstore 409201541 Pages (7.2)
 appstore 1055273043 PDF Expert (2.4.11)
 appstore 418818452 PhotoSync (3.2)
 appstore 407963104 Pixelmator (3.7.5)
 appstore 445189367 PopClip (1.5.8)
-appstore 522706442 Sync Folders Pro (3.4.5)
+appstore 522706442 Sync Folders Pro (3.4.6)
 appstore 425424353 The Unarchiver (4.0.0)
 appstore 595374522 VirusScannerPlus (3.12)

@@ -67,9 +67,8 @@ cask kindle
 cask liteicon
 cask mamp
 cask onyx
-cask qlimagesize
-cask qlstephen
-cask quicklook-json
+cask qlmarkdown
+cask quicklook-csv
 cask skype
 cask spideroakone
 cask subler
@@ -95,8 +94,9 @@ cask lastfm
 cask lyrics-master
 cask my-image-garden
 cask qlcolorcode
-cask qlmarkdown
-cask quicklook-csv
+cask qlimagesize
+cask qlstephen
+cask quicklook-json
 cask remote-play
 cask sourcetree
 cask spotify
@@ -109,8 +109,8 @@ appstore 451732904 App Language Chooser (1.0)
 appstore 808501572 Backgrounds (6.2.1)
 appstore 417375580 BetterSnapTool (1.9)
 appstore 420212497 Byword (2.8.2)
-appstore 1048338802 Cookie 5 (5.9.3)
-appstore 1024640650 CotEditor (3.6.7)
+appstore 1048338802 Cookie 5 (5.9.4)
+appstore 1024640650 CotEditor (3.6.9)
 appstore 1055511498 Day One (2.9.2)
 appstore 406056744 Evernote (7.6)
 appstore 477514607 Exif Editor (1.1.14)
@@ -121,11 +121,12 @@ appstore 493949693 iMage Tools (1.0.16)
 appstore 408981434 iMovie (10.1.10)
 appstore 463243494 Kopypasta (1.2)
 appstore 576338668 Leaf (5.1.3)
+appstore 539883307 LINE (5.12.0)
 appstore 403100976 myTracks (3.4.2)
 appstore 428834068 Night Owl (2.88)
-appstore 823766827 OneDrive (18.212.1021)
+appstore 823766827 OneDrive (18.214.1021)
 appstore 409201541 Pages (7.3)
-appstore 1055273043 PDF Expert (2.4.13)
+appstore 1055273043 PDF Expert (2.4.17)
 appstore 418818452 PhotoSync (3.2)
 appstore 407963104 Pixelmator (3.8)
 appstore 445189367 PopClip (1.5.8)

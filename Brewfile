@@ -36,6 +36,7 @@ brew pcre
 brew pcre2
 brew pixman
 brew pkg-config
+brew python
 brew python@2
 brew readline
 brew sdl2

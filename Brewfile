@@ -44,6 +44,7 @@ brew snappy
 brew sqlite
 brew texi2html
 brew theora
+brew trash
 brew x264
 brew x265
 brew xvid

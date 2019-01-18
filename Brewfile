@@ -76,6 +76,8 @@ cask spideroakone
 cask subler
 cask vlc
 
+tap buo/cask-upgrade
+
 tap rcmdnk/file
 brew brew-file
 

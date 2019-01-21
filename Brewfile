@@ -58,17 +58,17 @@ cask adobe-air
 cask alfred
 cask amazon-music
 cask bathyscaphe
-cask box-sync
-cask caffeine
-cask cmd-eikana
-cask expandrive
-cask flux
-cask franz
-cask imageoptim
-cask kindle
-cask liteicon
-cask mamp
-cask onyx
+cask burn
+cask cheatsheet
+cask dropbox
+cask firefox
+cask forklift
+cask iexplorer
+cask iterm2
+cask lastfm
+cask lyrics-master
+cask my-image-garden
+cask qlcolorcode
 cask qlmarkdown
 cask quicklook-csv
 cask skype
@@ -87,17 +87,16 @@ cask adobe-creative-cloud
 cask amazon-drive
 cask appcleaner
 cask bettertouchtool
-cask burn
-cask cheatsheet
-cask dropbox
-cask firefox
-cask forklift
-cask iexplorer
-cask iterm2
-cask lastfm
-cask lyrics-master
-cask my-image-garden
-cask qlcolorcode
+cask caffeine
+cask cmd-eikana
+cask expandrive
+cask flux
+cask franz
+cask imageoptim
+cask kindle
+cask liteicon
+cask mamp
+cask onyx
 cask qlimagesize
 cask qlstephen
 cask quicklook-json
@@ -113,7 +112,7 @@ appstore 451732904 App Language Chooser (1.0)
 appstore 808501572 Backgrounds (7.0)
 appstore 417375580 BetterSnapTool (1.9)
 appstore 420212497 Byword (2.8.2)
-appstore 1048338802 Cookie 5 (5.9.4)
+appstore 1048338802 Cookie 5 (5.9.5)
 appstore 1024640650 CotEditor (3.6.12)
 appstore 1055511498 Day One (2.9.2)
 appstore 406056744 Evernote (7.8)

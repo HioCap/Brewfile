@@ -6,9 +6,10 @@ brew boost
 brew cairo
 brew exiftool
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-libass --with-freetype
+brew ffmpeg
 brew fontconfig
 brew freetype
+brew frei0r
 brew fribidi
 brew gdbm
 brew gettext
@@ -30,6 +31,7 @@ brew lua
 brew mas
 brew nasm
 brew node
+brew opencore-amr
 brew openssl
 brew opus
 brew pcre
@@ -39,8 +41,10 @@ brew pkg-config
 brew python
 brew python@2
 brew readline
+brew rtmpdump
 brew sdl2
 brew snappy
+brew speex
 brew sqlite
 brew texi2html
 brew theora

@@ -58,8 +58,7 @@ tap homebrew/cask-versions
 
 tap homebrew/cask
 cask adapter
-cask adobe-air
-cask alfred
+cask adobe-creative-cloud
 cask amazon-music
 cask bathyscaphe
 cask burn
@@ -86,8 +85,8 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask adobe-acrobat-reader
-cask adobe-creative-cloud
+cask adobe-air
+cask alfred
 cask amazon-drive
 cask appcleaner
 cask bettertouchtool
@@ -126,6 +125,7 @@ appstore 510934532 FreeMan (1.4.1)
 appstore 682658836 GarageBand (10.3.2)
 appstore 493949693 iMage Tools (1.0.16)
 appstore 408981434 iMovie (10.1.10)
+appstore 1335413823 Ka-Block! (3.2)
 appstore 463243494 Kopypasta (1.2)
 appstore 576338668 Leaf (5.1.3)
 appstore 539883307 LINE (5.13.1)

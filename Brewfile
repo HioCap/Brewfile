@@ -2,17 +2,20 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew aom
 brew boost
 brew cairo
 brew exiftool
 brew fdk-aac
 brew ffmpeg
+brew flac
 brew fontconfig
 brew freetype
 brew frei0r
 brew fribidi
 brew gdbm
 brew gettext
+brew giflib
 brew git
 brew glib
 brew gobject-introspection
@@ -20,18 +23,26 @@ brew graphite2
 brew harfbuzz
 brew highlight
 brew icu4c
+brew jpeg
 brew lame
+brew leptonica
 brew libass
+brew libbluray
 brew libffi
 brew libogg
 brew libpng
+brew libsamplerate
+brew libsndfile
+brew libtiff
 brew libvorbis
 brew libvpx
+brew little-cms2
 brew lua
 brew mas
 brew nasm
 brew node
 brew opencore-amr
+brew openjpeg
 brew openssl
 brew opus
 brew pcre
@@ -42,13 +53,16 @@ brew python
 brew python@2
 brew readline
 brew rtmpdump
+brew rubberband
 brew sdl2
 brew snappy
 brew speex
 brew sqlite
+brew tesseract
 brew texi2html
 brew theora
 brew trash
+brew webp
 brew x264
 brew x265
 brew xvid
@@ -76,8 +90,8 @@ cask qlmarkdown
 cask quicklook-csv
 cask skype
 cask spideroakone
-cask subler
-cask vlc
+cask stack
+cask trusteer-rapport
 
 tap buo/cask-upgrade
 
@@ -106,7 +120,8 @@ cask quicklook-json
 cask remote-play
 cask sourcetree
 cask spotify
-cask trusteer-rapport
+cask subler
+cask vlc
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.2.4)

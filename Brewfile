@@ -18,6 +18,8 @@ brew gettext
 brew giflib
 brew git
 brew glib
+brew gmp
+brew gnutls
 brew gobject-introspection
 brew graphite2
 brew harfbuzz
@@ -33,18 +35,23 @@ brew libogg
 brew libpng
 brew libsamplerate
 brew libsndfile
+brew libsoxr
+brew libtasn1
 brew libtiff
+brew libunistring
 brew libvorbis
 brew libvpx
 brew little-cms2
 brew lua
 brew mas
 brew nasm
+brew nettle
 brew node
 brew opencore-amr
 brew openjpeg
 brew openssl
 brew opus
+brew p11-kit
 brew pcre
 brew pcre2
 brew pixman
@@ -76,22 +83,22 @@ cask adobe-creative-cloud
 cask amazon-music
 cask bathyscaphe
 cask burn
-cask cheatsheet
-cask dropbox
-cask firefox
-cask forklift
-cask iexplorer
-cask iterm2
-cask lastfm
-cask lyrics-master
-cask my-image-garden
-cask qlcolorcode
+cask chatwork
+cask cmd-eikana
+cask expandrive
+cask flux
+cask franz
+cask imageoptim
+cask kindle
+cask liteicon
+cask mamp
+cask onyx
 cask qlmarkdown
 cask quicklook-csv
 cask skype
 cask spideroakone
-cask stack
-cask trusteer-rapport
+cask subler
+cask vlc
 
 tap buo/cask-upgrade
 
@@ -105,23 +112,23 @@ cask amazon-drive
 cask appcleaner
 cask bettertouchtool
 cask caffeine
-cask cmd-eikana
-cask expandrive
-cask flux
-cask franz
-cask imageoptim
-cask kindle
-cask liteicon
-cask mamp
-cask onyx
+cask cheatsheet
+cask dropbox
+cask firefox
+cask forklift
+cask iexplorer
+cask iterm2
+cask lastfm
+cask lyrics-master
+cask my-image-garden
+cask qlcolorcode
 cask qlimagesize
 cask qlstephen
 cask quicklook-json
 cask remote-play
 cask sourcetree
 cask spotify
-cask subler
-cask vlc
+cask trusteer-rapport
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.2.4)
@@ -136,6 +143,7 @@ appstore 1055511498 Day One (2.9.2)
 appstore 406056744 Evernote (7.8)
 appstore 477514607 Exif Editor (1.1.14)
 appstore 445211988 FormatMatch (1.3)
+appstore 1077753332 FreeChat for Facebook Messenger (1.1.2)
 appstore 510934532 FreeMan (1.4.1)
 appstore 682658836 GarageBand (10.3.2)
 appstore 493949693 iMage Tools (1.0.16)
@@ -146,8 +154,7 @@ appstore 576338668 Leaf (5.1.3)
 appstore 539883307 LINE (5.13.1)
 appstore 1282504627 Mimeo Photos (3.1)
 appstore 403100976 myTracks (3.4.3)
-appstore 428834068 Night Owl (2.88)
-appstore 823766827 OneDrive (18.240.1202)
+appstore 823766827 OneDrive (19.002.0107)
 appstore 409201541 Pages (7.3)
 appstore 1055273043 PDF Expert (2.4.17)
 appstore 418818452 PhotoSync (3.2)
@@ -155,4 +162,5 @@ appstore 407963104 Pixelmator (3.8.1)
 appstore 445189367 PopClip (1.5.8)
 appstore 522706442 Sync Folders Pro (3.4.6)
 appstore 425424353 The Unarchiver (4.0.0)
+appstore 485812721 TweetDeck (3.10)
 appstore 595374522 VirusScannerPlus (3.14)

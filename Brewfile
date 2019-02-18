@@ -83,16 +83,16 @@ cask adobe-creative-cloud
 cask amazon-music
 cask bathyscaphe
 cask burn
-cask chatwork
-cask cmd-eikana
-cask expandrive
-cask flux
-cask franz
-cask imageoptim
-cask kindle
-cask liteicon
-cask mamp
-cask onyx
+cask cheatsheet
+cask dropbox
+cask firefox
+cask forklift
+cask iexplorer
+cask iterm2
+cask lastfm
+cask lyrics-master
+cask my-image-garden
+cask qlcolorcode
 cask qlmarkdown
 cask quicklook-csv
 cask skype
@@ -112,16 +112,15 @@ cask amazon-drive
 cask appcleaner
 cask bettertouchtool
 cask caffeine
-cask cheatsheet
-cask dropbox
-cask firefox
-cask forklift
-cask iexplorer
-cask iterm2
-cask lastfm
-cask lyrics-master
-cask my-image-garden
-cask qlcolorcode
+cask cmd-eikana
+cask expandrive
+cask flux
+cask franz
+cask imageoptim
+cask kindle
+cask liteicon
+cask mamp
+cask onyx
 cask qlimagesize
 cask qlstephen
 cask quicklook-json
@@ -145,7 +144,6 @@ appstore 477514607 Exif Editor (1.1.14)
 appstore 445211988 FormatMatch (1.3)
 appstore 1077753332 FreeChat for Facebook Messenger (1.1.2)
 appstore 510934532 FreeMan (1.4.1)
-appstore 682658836 GarageBand (10.3.2)
 appstore 493949693 iMage Tools (1.0.16)
 appstore 408981434 iMovie (10.1.10)
 appstore 1335413823 Ka-Block! (3.2)
@@ -162,6 +160,6 @@ appstore 418818452 PhotoSync (3.2)
 appstore 407963104 Pixelmator (3.8.1)
 appstore 445189367 PopClip (1.5.8)
 appstore 522706442 Sync Folders Pro (3.4.6)
-appstore 425424353 The Unarchiver (4.0.0)
+appstore 425424353 The Unarchiver (4.1.0)
 appstore 485812721 TweetDeck (3.10)
 appstore 595374522 VirusScannerPlus (3.14)

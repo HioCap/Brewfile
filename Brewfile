@@ -93,9 +93,9 @@ cask kindle
 cask liteicon
 cask mamp
 cask onyx
-cask qlimagesize
-cask qlstephen
-cask quicklook-json
+cask qlcolorcode
+cask qlmarkdown
+cask quicklook-csv
 cask skype
 cask spideroakone
 cask subler
@@ -121,9 +121,10 @@ cask iterm2
 cask lastfm
 cask lyrics-master
 cask my-image-garden
-cask qlcolorcode
-cask qlmarkdown
-cask quicklook-csv
+cask oversight
+cask qlimagesize
+cask qlstephen
+cask quicklook-json
 cask remote-play
 cask sourcetree
 cask spotify
@@ -135,8 +136,8 @@ appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 808501572 Backgrounds (7.1)
 appstore 417375580 BetterSnapTool (1.9)
-appstore 420212497 Byword (2.9)
-appstore 1048338802 Cookie 5 (5.9.5)
+appstore 420212497 Byword (2.9.1)
+appstore 1048338802 Cookie 5 (5.9.6)
 appstore 1024640650 CotEditor (3.7.1)
 appstore 1055511498 Day One (3.0.1)
 appstore 406056744 Evernote (7.9)
@@ -158,7 +159,7 @@ appstore 823766827 OneDrive (19.012.0121)
 appstore 409201541 Pages (7.3)
 appstore 1055273043 PDF Expert (2.4.22)
 appstore 418818452 PhotoSync (3.2)
-appstore 407963104 Pixelmator (3.8.1)
+appstore 407963104 Pixelmator (3.8.2)
 appstore 445189367 PopClip (1.5.8)
 appstore 522706442 Sync Folders Pro (3.4.6)
 appstore 425424353 The Unarchiver (4.1.0)

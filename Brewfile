@@ -88,17 +88,18 @@ cask bathyscaphe
 cask box-drive
 cask caffeine
 cask cmd-eikana
-cask expandrive
-cask flux
-cask iexplorer
-cask iterm2
-cask lastfm
-cask lyrics-master
-cask my-image-garden
-cask onyx
-cask qlcolorcode
-cask qlmarkdown
-cask quicklook-csv
+cask dropbox
+cask firefox
+cask forklift
+cask imageoptim
+cask kindle
+cask liteicon
+cask mamp
+cask notion
+cask oversight
+cask qlimagesize
+cask qlstephen
+cask quicklook-json
 cask skype
 cask spideroakone
 cask subler
@@ -117,18 +118,18 @@ cask atom
 cask bettertouchtool
 cask burn
 cask cheatsheet
-cask dropbox
-cask firefox
-cask forklift
-cask imageoptim
-cask kindle
-cask liteicon
-cask mamp
-cask notion
-cask oversight
-cask qlimagesize
-cask qlstephen
-cask quicklook-json
+cask dash
+cask expandrive
+cask flux
+cask iexplorer
+cask iterm2
+cask lastfm
+cask lyrics-master
+cask my-image-garden
+cask onyx
+cask qlcolorcode
+cask qlmarkdown
+cask quicklook-csv
 cask remote-play
 cask sourcetree
 cask spotify
@@ -142,26 +143,25 @@ appstore 808501572 Backgrounds (7.1)
 appstore 417375580 BetterSnapTool (1.9)
 appstore 420212497 Byword (2.9.2)
 appstore 1249947725 ChatMate for Facebook (4.3.1)
-appstore 1048338802 Cookie 5 (5.9.9)
+appstore 1048338802 Cookie 5 (5.9.10)
 appstore 1024640650 CotEditor (3.7.5)
-appstore 1055511498 Day One (3.1)
+appstore 1055511498 Day One (3.1.2)
 appstore 406056744 Evernote (7.10)
 appstore 477514607 Exif Editor (1.1.14)
 appstore 445211988 FormatMatch (1.3)
-appstore 1077753332 FreeChat for Facebook Messenger (1.1.2)
 appstore 510934532 FreeMan (1.4.1)
 appstore 682658836 GarageBand (10.3.2)
 appstore 493949693 iMage Tools (1.0.16)
-appstore 408981434 iMovie (10.1.11)
+appstore 408981434 iMovie (10.1.12)
 appstore 1335413823 Ka-Block! (3.2)
 appstore 463243494 Kopypasta (1.2)
 appstore 576338668 Leaf (5.1.3)
-appstore 539883307 LINE (5.16.2)
-appstore 1282504627 Mimeo Photos (3.4)
+appstore 539883307 LINE (5.17.1)
+appstore 1282504627 Mimeo Photos (3.5)
 appstore 403100976 myTracks (3.4.4)
 appstore 823766827 OneDrive (19.062.0331)
 appstore 409201541 Pages (8.0)
-appstore 1055273043 PDF Expert (2.4.22)
+appstore 1055273043 PDF Expert (2.4.24)
 appstore 418818452 PhotoSync (3.2)
 appstore 407963104 Pixelmator (3.8.4)
 appstore 445189367 PopClip (1.5.8)

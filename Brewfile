@@ -78,7 +78,6 @@ cask subler
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.3.2)
-appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.2)
 appstore 1249947725 ChatMate for Facebook (4.3.1)

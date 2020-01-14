@@ -33,46 +33,44 @@ tap homebrew/cask-versions
 
 tap homebrew/cask
 cask adobe-creative-cloud
+cask alfred
 cask amazon-photos
+cask appcleaner
 cask atom
+cask bathyscaphe
 cask bettertouchtool
+cask box-drive
 cask caffeine
+cask cheatsheet
 cask cmd-eikana
+cask dash
 cask dropbox
+cask expandrive
 cask firefox
+cask flux
 cask forklift
+cask iexplorer
 cask imageoptim
+cask iterm2
 cask lastfm
+cask lyrics-master
 cask notion
+cask qlcolorcode
 cask qlimagesize
+cask qlmarkdown
 cask quicklook-csv
+cask quicklook-json
 cask sourcetree
+cask spideroakone
 cask spotify
+cask station
 cask subler
+cask vlc
 
 tap buo/cask-upgrade
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Cask applications
-cask alfred
-cask appcleaner
-cask bathyscaphe
-cask box-drive
-cask cheatsheet
-cask dash
-cask expandrive
-cask flux
-cask iexplorer
-cask iterm2
-cask lyrics-master
-cask qlcolorcode
-cask qlmarkdown
-cask quicklook-json
-cask spideroakone
-cask station
-cask vlc
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.4.1)
@@ -80,11 +78,11 @@ appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.2)
 appstore 1024640650 CotEditor (3.8.7)
-appstore 1055511498 Day One (4.3.1)
+appstore 1055511498 Day One (4.4)
 appstore 445211988 FormatMatch (1.3)
 appstore 408981434 iMovie (10.1.14)
 appstore 1335413823 Ka-Block! (3.2)
-appstore 539883307 LINE (5.21.2)
+appstore 539883307 LINE (5.21.3)
 appstore 462058435 Microsoft Excel (16.32)
 appstore 462062816 Microsoft PowerPoint (16.32)
 appstore 462054704 Microsoft Word (16.32)
@@ -99,4 +97,4 @@ appstore 803453959 Slack (4.2.0)
 appstore 522706442 Sync Folders Pro (3.5.2)
 appstore 425424353 The Unarchiver (4.1.0)
 appstore 1278508951 Trello (2.11.3)
-appstore 595374522 Virus Scanner Plus (3.15)
+appstore 595374522 Virus Scanner Plus (3.16)

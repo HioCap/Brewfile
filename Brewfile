@@ -45,6 +45,7 @@ cask cheatsheet
 cask cmd-eikana
 cask dash
 cask dropbox
+cask epic-games
 cask expandrive
 cask firefox
 cask flux
@@ -86,7 +87,7 @@ appstore 462058435 Microsoft Excel (16.33)
 appstore 462062816 Microsoft PowerPoint (16.33)
 appstore 462054704 Microsoft Word (16.33)
 appstore 1282504627 Mimeo Photos (4.0.3)
-appstore 403100976 myTracks (3.5.0)
+appstore 403100976 myTracks (3.5.1)
 appstore 1055273043 PDF Expert (2.5.1)
 appstore 553760117 Photo Meta Edit (2.3.0)
 appstore 418818452 PhotoSync (4.0)

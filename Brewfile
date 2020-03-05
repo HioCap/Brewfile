@@ -68,7 +68,7 @@ cask spotify
 cask station
 cask subler
 cask vlc
-cask zoom
+cask zoomus
 
 tap buo/cask-upgrade
 
@@ -77,6 +77,7 @@ brew brew-file
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.4.4)
+appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.2)
 appstore 1024640650 CotEditor (3.8.11)

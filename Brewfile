@@ -35,6 +35,7 @@ tap homebrew/cask
 cask adobe-creative-cloud
 cask alfred
 cask amazon-photos
+cask amazon-workspaces
 cask appcleaner
 cask atom
 cask bathyscaphe
@@ -67,6 +68,7 @@ cask spotify
 cask station
 cask subler
 cask vlc
+cask zoom
 
 tap buo/cask-upgrade
 

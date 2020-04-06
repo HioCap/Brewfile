@@ -23,6 +23,7 @@ brew openssl@1.1
 brew pcre
 brew pcre2
 brew python
+brew python@3.8
 brew readline
 brew sqlite
 brew webp
@@ -89,14 +90,14 @@ appstore 539883307 LINE (5.23.0)
 appstore 462058435 Microsoft Excel (16.35)
 appstore 462062816 Microsoft PowerPoint (16.35)
 appstore 462054704 Microsoft Word (16.35)
-appstore 1282504627 Mimeo Photos (4.0.5)
+appstore 1282504627 Mimeo Photos (4.0.6)
 appstore 403100976 myTracks (3.5.1)
 appstore 1055273043 PDF Expert (2.5.3)
 appstore 553760117 Photo Meta Edit (2.3.0)
 appstore 418818452 PhotoSync (4.0)
 appstore 407963104 Pixelmator (3.9)
 appstore 445189367 PopClip (2019.10)
-appstore 803453959 Slack (4.4.1)
+appstore 803453959 Slack (4.4.2)
 appstore 522706442 Sync Folders Pro (3.5.3)
 appstore 425424353 The Unarchiver (4.2.0)
 appstore 1278508951 Trello (2.11.4)

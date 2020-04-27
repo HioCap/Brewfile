@@ -52,6 +52,7 @@ cask expandrive
 cask firefox
 cask flux
 cask forklift
+cask google-chrome
 cask iexplorer
 cask imageoptim
 cask iterm2

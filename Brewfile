@@ -78,7 +78,8 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.4.4)
+appstore 1333542190 1Password 7 (7.5)
+appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.3)
 appstore 1024640650 CotEditor (3.8.12)
@@ -100,6 +101,6 @@ appstore 445189367 PopClip (2019.10)
 appstore 803453959 Slack (4.5.0)
 appstore 522706442 Sync Folders Pro (3.5.3)
 appstore 425424353 The Unarchiver (4.2.1)
-appstore 1278508951 Trello (2.11.4)
+appstore 1278508951 Trello (2.11.5)
 appstore 595374522 Virus Scanner Plus (3.16)
 appstore 882655968 ZIPANG (1.1)

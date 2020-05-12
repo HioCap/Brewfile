@@ -64,6 +64,7 @@ cask qlimagesize
 cask qlmarkdown
 cask quicklook-csv
 cask quicklook-json
+cask skype
 cask sourcetree
 cask spideroakone
 cask spotify
@@ -79,7 +80,6 @@ brew brew-file
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.5)
-appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.3)
 appstore 1024640650 CotEditor (3.8.12)
@@ -93,7 +93,7 @@ appstore 462062816 Microsoft PowerPoint (16.36)
 appstore 462054704 Microsoft Word (16.36)
 appstore 1282504627 Mimeo Photos (4.0.6)
 appstore 403100976 myTracks (3.5.1)
-appstore 1055273043 PDF Expert (2.5.4)
+appstore 1055273043 PDF Expert (2.5.5)
 appstore 553760117 Photo Meta Edit (2.3.0)
 appstore 418818452 PhotoSync (4.0)
 appstore 407963104 Pixelmator (3.9)

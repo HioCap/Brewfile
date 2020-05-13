@@ -10,14 +10,21 @@ brew ghostscript
 brew git
 brew glib
 brew highlight
+brew ilmbase
+brew imagemagick
 brew jpeg
+brew libde265
 brew libffi
+brew libheif
+brew libomp
 brew libpng
 brew libtiff
+brew libtool
 brew little-cms2
 brew lua
 brew lzo
 brew mas
+brew openexr
 brew openjpeg
 brew openssl@1.1
 brew pcre
@@ -25,6 +32,7 @@ brew pcre2
 brew python
 brew python@3.8
 brew readline
+brew shared-mime-info
 brew sqlite
 brew webp
 brew x265
@@ -90,7 +98,7 @@ appstore 1335413823 Ka-Block! (3.2)
 appstore 539883307 LINE (5.24.1)
 appstore 462058435 Microsoft Excel (16.37)
 appstore 462062816 Microsoft PowerPoint (16.37)
-appstore 462054704 Microsoft Word (16.36)
+appstore 462054704 Microsoft Word (16.37)
 appstore 1282504627 Mimeo Photos (4.0.7)
 appstore 403100976 myTracks (3.5.1)
 appstore 1055273043 PDF Expert (2.5.5)

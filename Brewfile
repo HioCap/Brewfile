@@ -2,6 +2,9 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew autoconf
+brew docbook
+brew docbook-xsl
 brew exiftool
 brew freetype
 brew gdbm
@@ -9,6 +12,7 @@ brew gettext
 brew ghostscript
 brew git
 brew glib
+brew gnu-getopt
 brew highlight
 brew ilmbase
 brew imagemagick
@@ -29,6 +33,8 @@ brew openjpeg
 brew openssl@1.1
 brew pcre
 brew pcre2
+brew pkg-config
+brew pyenv
 brew python
 brew python@3.8
 brew readline
@@ -36,6 +42,7 @@ brew shared-mime-info
 brew sqlite
 brew webp
 brew x265
+brew xmlto
 brew xz
 
 tap homebrew/cask-versions

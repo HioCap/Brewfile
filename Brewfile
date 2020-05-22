@@ -79,6 +79,7 @@ cask qlimagesize
 cask qlmarkdown
 cask quicklook-csv
 cask quicklook-json
+cask skype
 cask sourcetree
 cask spideroakone
 cask spotify

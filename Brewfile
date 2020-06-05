@@ -20,6 +20,7 @@ brew jpeg
 brew libde265
 brew libffi
 brew libheif
+brew liblqr
 brew libomp
 brew libpng
 brew libtiff
@@ -99,14 +100,14 @@ appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.3)
 appstore 1024640650 CotEditor (3.9.0)
-appstore 1055511498 Day One (4.14)
+appstore 1055511498 Day One (4.15)
 appstore 408981434 iMovie (10.1.14)
 appstore 1335413823 Ka-Block! (3.2)
 appstore 539883307 LINE (6.0.3)
 appstore 462058435 Microsoft Excel (16.37)
 appstore 462062816 Microsoft PowerPoint (16.37)
 appstore 462054704 Microsoft Word (16.37)
-appstore 1282504627 Mimeo Photos (4.0.8)
+appstore 1282504627 Mimeo Photos (4.0.9)
 appstore 403100976 myTracks (3.5.1)
 appstore 1055273043 PDF Expert (2.5.5)
 appstore 553760117 Photo Meta Edit (2.3.0)

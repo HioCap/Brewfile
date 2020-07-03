@@ -97,7 +97,6 @@ brew brew-file
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.5)
-appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.3)
 appstore 1024640650 CotEditor (3.9.2)

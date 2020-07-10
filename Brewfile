@@ -36,7 +36,6 @@ brew pcre
 brew pcre2
 brew pkg-config
 brew pyenv
-brew python
 brew python@3.8
 brew readline
 brew shared-mime-info
@@ -96,7 +95,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.5)
+appstore 1333542190 1Password 7 (7.6)
 appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.3)

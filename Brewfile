@@ -59,7 +59,6 @@ cask bettertouchtool
 cask box-drive
 cask caffeine
 cask cheatsheet
-cask cmd-eikana
 cask dash
 cask dropbox
 cask epic-games
@@ -68,9 +67,9 @@ cask firefox
 cask flux
 cask forklift
 cask google-chrome
-cask iexplorer
 cask imageoptim
 cask iterm2
+cask karabiner-elements
 cask keka
 cask lastfm
 cask lyrics-master
@@ -96,6 +95,7 @@ brew brew-file
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.6)
+appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.3)
 appstore 1024640650 CotEditor (3.9.2)

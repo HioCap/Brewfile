@@ -52,6 +52,7 @@ cask adobe-creative-cloud
 cask alfred
 cask amazon-photos
 cask amazon-workspaces
+cask android-file-transfer
 cask appcleaner
 cask atom
 cask bathyscaphe
@@ -98,7 +99,7 @@ appstore 1333542190 1Password 7 (7.6)
 appstore 1016794110 After Focus (1.5.5)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.3)
-appstore 1024640650 CotEditor (3.9.3)
+appstore 1024640650 CotEditor (3.9.4)
 appstore 1055511498 Day One (4.15.3)
 appstore 408981434 iMovie (10.1.14)
 appstore 1335413823 Ka-Block! (3.3)
@@ -106,14 +107,14 @@ appstore 539883307 LINE (6.2.1)
 appstore 462058435 Microsoft Excel (16.39)
 appstore 462062816 Microsoft PowerPoint (16.39)
 appstore 462054704 Microsoft Word (16.39)
-appstore 1282504627 Mimeo Photos (4.1.4)
+appstore 1282504627 Mimeo Photos (4.1.5)
 appstore 403100976 myTracks (3.5.1)
 appstore 1055273043 PDF Expert (2.5.9)
 appstore 553760117 Photo Meta Edit (2.3.0)
 appstore 418818452 PhotoSync (4.0)
 appstore 407963104 Pixelmator (3.9)
 appstore 445189367 PopClip (2019.10)
-appstore 803453959 Slack (4.7.0)
+appstore 803453959 Slack (4.8.0)
 appstore 522706442 Sync Folders Pro (3.5.3)
 appstore 425424353 The Unarchiver (4.2.2)
 appstore 1278508951 Trello (2.11.7)

@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew autoconf
+brew dash
 brew docbook
 brew docbook-xsl
 brew exiftool
@@ -84,7 +85,6 @@ cask skype
 cask sourcetree
 cask spideroakone
 cask spotify
-cask station
 cask subler
 cask vlc
 cask zoomus
@@ -94,18 +94,21 @@ tap buo/cask-upgrade
 tap rcmdnk/file
 brew brew-file
 
+# Other Cask applications
+cask station
+
 # App Store applications
 appstore 1333542190 1Password 7 (7.6)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.3)
 appstore 1024640650 CotEditor (3.9.6)
-appstore 1055511498 Day One (5.2)
-appstore 408981434 iMovie (10.1.15)
+appstore 1055511498 Day One (5.3)
+appstore 408981434 iMovie (10.1.16)
 appstore 1335413823 Ka-Block! (3.3)
-appstore 539883307 LINE (6.2.2)
-appstore 462058435 Microsoft Excel (16.40)
-appstore 462062816 Microsoft PowerPoint (16.40)
-appstore 462054704 Microsoft Word (16.40)
+appstore 539883307 LINE (6.3.1)
+appstore 462058435 Microsoft Excel (16.41)
+appstore 462062816 Microsoft PowerPoint (16.41)
+appstore 462054704 Microsoft Word (16.41)
 appstore 1282504627 Mimeo Photos (4.1.6)
 appstore 403100976 myTracks (3.5.1)
 appstore 1055273043 PDF Expert (2.5.11)
@@ -113,8 +116,8 @@ appstore 553760117 Photo Meta Edit (2.3.1)
 appstore 418818452 PhotoSync (4.0)
 appstore 407963104 Pixelmator (3.9)
 appstore 445189367 PopClip (2019.10)
-appstore 803453959 Slack (4.8.0)
-appstore 522706442 Sync Folders Pro (3.5.3)
+appstore 803453959 Slack (4.9.0)
+appstore 522706442 Sync Folders Pro (4.1)
 appstore 425424353 The Unarchiver (4.2.2)
 appstore 1278508951 Trello (2.11.7)
 appstore 595374522 Virus Scanner Plus (3.16)

@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew autoconf
+brew automake
 brew dash
 brew docbook
 brew docbook-xsl

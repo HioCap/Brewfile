@@ -39,6 +39,7 @@ brew pcre2
 brew pkg-config
 brew pyenv
 brew python@3.8
+brew python@3.9
 brew readline
 brew shared-mime-info
 brew sqlite
@@ -102,8 +103,8 @@ cask station
 appstore 1333542190 1Password 7 (7.6)
 appstore 451732904 App Language Chooser (1.0)
 appstore 417375580 BetterSnapTool (1.9.3)
-appstore 1024640650 CotEditor (3.9.6)
-appstore 1055511498 Day One (5.4)
+appstore 1024640650 CotEditor (3.9.7)
+appstore 1055511498 Day One (5.5)
 appstore 408981434 iMovie (10.1.16)
 appstore 1335413823 Ka-Block! (3.3)
 appstore 539883307 LINE (6.3.2)
@@ -112,12 +113,12 @@ appstore 462062816 Microsoft PowerPoint (16.42)
 appstore 462054704 Microsoft Word (16.42)
 appstore 1282504627 Mimeo Photos (4.2.0)
 appstore 403100976 myTracks (3.5.1)
-appstore 1055273043 PDF Expert (2.5.11)
+appstore 1055273043 PDF Expert (2.5.12)
 appstore 553760117 Photo Meta Edit (2.3.1)
 appstore 418818452 PhotoSync (4.0)
 appstore 407963104 Pixelmator (3.9)
 appstore 445189367 PopClip (2019.10)
-appstore 803453959 Slack (4.10.2)
+appstore 803453959 Slack (4.10.3)
 appstore 522706442 Sync Folders Pro (4.1)
 appstore 425424353 The Unarchiver (4.2.2)
 appstore 1278508951 Trello (2.11.7)
